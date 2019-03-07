@@ -1,9 +1,7 @@
-import discord
 import datetime
 import asyncio
 import pip
-pip.main(["install", "gspread"])
-pip.main(["install", "oauth2client"])
+import discord
 import gspread
 import json
 
